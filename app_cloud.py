@@ -205,7 +205,7 @@ qty = st.number_input(
 area = st.number_input(
     "AreaFt",
     min_value=1.0,
-    value=100.0,
+    value=10.0,
     step=10.0,
 )
 
